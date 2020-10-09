@@ -10,3 +10,6 @@ http://acmp.ru/index.asp?main=alltasks
 
 Ссылка на мой профиль в acmp.ru:
 http://acmp.ru/index.asp?main=user&id=31042
+
+Ссылка на StackOverflow:
+https://stackoverflow.com/users/3551035/shohrukh
